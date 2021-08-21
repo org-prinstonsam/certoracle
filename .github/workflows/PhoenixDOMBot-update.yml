@@ -7,6 +7,7 @@
 # PhoenixDOM APIs calls PhoenixDOMDatabases with PhoenixDOMHttps-APIs  nodes  synchronization stability
 # Update PhoenixDOMEcodedABI 
 # Generate  automatic PhoenixDOMMessageSignHash and send to Ethereum Blockchain.
+# Update PhoenixDOMFiles directory with PhoenixDOMScript.jsGenerator automation and PhoenixDOMConfig.json.
 
 name: PhoenixDOMBot-update CI
 
